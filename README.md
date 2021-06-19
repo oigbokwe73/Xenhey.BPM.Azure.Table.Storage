@@ -1,1 +1,1 @@
-# Xenhey.BPM.Azure.Table.Storage-
+# Xenhey.BPM.Azure.Table.Storage
